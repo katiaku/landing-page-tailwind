@@ -2,7 +2,7 @@
 
 This landing page project was created using Tailwind CSS, an easy-to-use CSS framework. The project was developed by following an online tutorial and includes HTML, CSS, and a touch of JavaScript. The goal of this project is to showcase the usage of Tailwind CSS and its capabilities in creating modern, responsive web pages.
 
-###Tech Stack
+### Tech Stack
 The landing page project utilizes the following technologies: HTML, CSS, Tailwind CSS, JavaScript.
 
 ### Credits and Acknowledgements
